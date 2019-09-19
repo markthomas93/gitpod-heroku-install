@@ -2,6 +2,6 @@
 
 Welcome USER_NAME,
 
-We have preinstalled all of the tools you need to get started.
+Use this workspace template when you need the Heroku command-line tools. Type `heroku` in the terminal window to run the Heroku toolbelt.
 
 Happy coding!
